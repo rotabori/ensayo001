@@ -8,8 +8,40 @@ este es un ensayo Nro. 001
 ##### Nivel 5 (H5)
 ###### Nivel 6 (H6)
 
+Imagen simple
 ![Texto alternativo](carrito01.jpg)
 
-![Logo](https://url-de-la-imagen.com/imagen.png)
+Imagen desde URL externa
+![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
 
-[![Texto alternativo](ruta/imagen.png)](https://enlace-destino.com)
+Imagen con enlace (clickeable)
+[![Texto alternativo](carrito01.jpg)](https://www.eltiempo.com)
+
+Imagen con tamaño personalizado (HTML dentro de Markdown)
+<img src="ruta/imagen.png" alt="Descripción" width="400"/>
+
+Imagen centrada
+<p align="center">
+    <img src="ruta/imagen.png" alt="Descripción" width="500"/>
+</p>
+
+Varias imágenes en fila
+<p align="center">
+    <img src="img1.png" width="200"/>
+    <img src="img2.png" width="200"/>
+    <img src="img3.png" width="200"/>
+</p>
+
+Formato de Texto
+
+**negrita**
+
+*cursiva*
+
+~~tachado~~
+
+`código en línea`
+
+> cita o blockquote
+
+
