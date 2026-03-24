@@ -8,7 +8,7 @@ este es un ensayo Nro. 001
 ##### Nivel 5 (H5)
 ###### Nivel 6 (H6)
 
-![Texto alternativo](ruta/a/imagen.png)
+![Texto alternativo](carrito01.jpg)
 
 ![Logo](https://url-de-la-imagen.com/imagen.png)
 
